@@ -20,6 +20,11 @@ Once I press `ENTER`, the shell returns:
 ```
 hello
 ```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea7f49db-ae4c-48c3-a986-ea1e17054a95" height="70%" width="70%" >
+</p>
+
+
 Here, `hello` is the string I input, and the shell outputs it as expected.
 
 ### Step 2: Use Quotation Marks
